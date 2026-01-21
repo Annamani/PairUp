@@ -21,5 +21,4 @@ This project was created to practice practical JavaScript skills, understand arr
 
 When the Assign button is clicked, students are paired randomly with teachers, and the results are shown in a table. This provides a basic example of dynamic UI updates using JavaScript.
 
-[Live Demo:
-(https://annamani.github.io/PairUp/)]
+[Live Demo](https://annamani.github.io/PairUp/)
